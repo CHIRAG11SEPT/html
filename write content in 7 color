@@ -1,0 +1,14 @@
+<html>
+<head>
+    <title>Colored Lines</title>
+</head>
+<body>
+    <p style="color: red;">This is a red line.</p>
+    <p style="color: blue;">This is a blue line.</p>
+    <p style="color: green;">This is a green line.</p>
+    <p style="color: orange;">This is an orange line.</p>
+    <p style="color: purple;">This is a purple line.</p>
+    <p style="color: brown;">This is a brown line.</p>
+    <p style="color: teal;">This is a teal line.</p>
+</body>
+</html>
